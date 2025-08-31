@@ -1,0 +1,3 @@
+added decrement rss in deallocuvm
+copied freeuvm_copy deallocuvm_copy and called  freeuvm_copy from wait in proc.c 
+changed copyuvm called from fork
